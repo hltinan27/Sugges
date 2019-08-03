@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Sugges
 //
-//  Created by Halit İNAN on 31.07.2019.
+//  Created by Halit İNAN on 3.08.2019.
 //  Copyright © 2019 inan. All rights reserved.
 //
 
